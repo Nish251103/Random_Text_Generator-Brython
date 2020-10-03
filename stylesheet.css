@@ -8,3 +8,18 @@ body {
     word-wrap: break-word;
     white-space: pre-wrap;
 }
+
+article.textBox {
+    background: #d9ffef;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 2em;
+    text-align: center;
+    width: 80vw;
+    color: #2e2e2e;
+    box-sizing: border-box;
+    position: relative;
+    box-shadow: 0px 3px 5px 0px #2e2e2e;
+    font-variant: capitalize;
+	margin: auto;
+}
